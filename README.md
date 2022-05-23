@@ -47,6 +47,8 @@ Installation:
 
   ``` terminal
   pip install lxml
+  ```
+  ``` terminal
   pip install html5lib
   ```
 + run command to install requests library (used to exchange HTTP requests on the web)
@@ -57,5 +59,7 @@ Installation:
 
 ## Reinforcement Learning: Q-Learning Algorithm
 Implementation of the Q-Learning algorithm by [Dr. Daniel Soper](https://youtu.be/iKdlKYG78j4). I recommend exploring Dr. Soper's [Artificial Intelligence Lessons](https://youtube.com/playlist?list=PL1LIXLIF50uWNLUnQRb3xLlsErSLLXryE) to learn more about reinforcement learning and the Q-Learning algorithm.
++ [Foundations of Reinforcement Learning](https://youtu.be/wVXXLLT6srY)
++ [Foundations of Q-Learning](https://youtu.be/__t2XRxXGxI)
 
 [^1]: Visit CDC database via the link above, scroll down to the 'Data Downloads and Footnotes' section, click the **plus** icon to expand the 'Data Table for Daily Case Trends - The United States' column, then click the big **Download Data** button. Now you've downloaded the *data_table_for_daily_case_trends__the_united_states* CSV file used in this lab.
