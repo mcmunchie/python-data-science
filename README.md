@@ -3,23 +3,25 @@
 
 ## Table of Contents
 + [Purpose](https://github.com/mcmunchie/python-data-science#purpose)
-+ [Lab 01: Python Review](https://github.com/mcmunchie/python-data-science#example-output)
-+ [Lab 02: CDC CSV Data Analysis](https://github.com/mcmunchie/python-data-science#example-output)
-+ [Lab 03: Data Processing and Mining using Pandas](https://github.com/mcmunchie/python-data-science#example-output)
-+ [Lab 04: Indicators of Heart Disease and Data Analysis](https://github.com/mcmunchie/python-data-science#example-output)
++ [Coding Environment](https://github.com/mcmunchie/python-data-science#coding-environment)
++ [Lab 01: Python Review](https://github.com/mcmunchie/python-data-science#lab-01-python-review)
++ [Lab 02: CDC CSV Data Analysis](https://github.com/mcmunchie/python-data-science#lab-02-cdc-csv-data-analysis)
++ [Lab 03: Data Processing and Mining using Pandas](https://github.com/mcmunchie/python-data-science#lab-03-data-processing-and-mining-using-pandas)
++ [Lab 04: Indicators of Heart Disease and Data Analysis](https://github.com/mcmunchie/python-data-science#lab-04-indicators-of-heart-disease-and-data-analysis)
 
 ## Purpose
 Introduction to the data mining process and its application to real-world problems. Explored data preparation techniques, post-processing metrics to identify information of interest, supervised and unsupervised machine learning algorithms.
 
-## Lab 01: Python Review
-Review of basic Python functionality and programming.
-
+## Coding Environment
 Python environment setup:
 + [VMware Workstation Player 16](https://www.vmware.com/products/workstation-player.html) running [Ubuntu](https://ubuntu.com/)
 + [JetBrains PyCharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 Alternative Python environment setup:
 + [Visual Studio Code](https://code.visualstudio.com/download)
+
+## Lab 01: Python Review
+Review of basic Python functionality and programming.
 
 ## Lab 02: CDC CSV Data Analysis
 Demonstrates data manipulation using a CSV file[^1] from the [CDC database](https://covid.cdc.gov/covid-data-tracker/#trends_dailycases). 
